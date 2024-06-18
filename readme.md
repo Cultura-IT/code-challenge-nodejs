@@ -48,6 +48,6 @@ Hacer un cliente que consuma los datos de la **App 1**. El cliente debe mostrar 
 No hay ninguna limitación en la elección del framework para el desarrollo de la solución.
 
 ### Cómo presentar la solución
-Cuando consideres que el problema está resuelto, debes subirlo a un repositorio de tu elección y enviarnos un mail a fsare@culturait.com.ar con el link de descarga, además podes agregar cualquier comentario que creas correspondiente.
+Cuando consideres que el problema está resuelto, debes subirlo a un repositorio privado de tu elección, y agregarme como colaborador (usuario: fsfederico); enviarnos un mail a fsare@culturait.com.ar con el link de acceso, además podes agregar cualquier comentario que creas correspondiente.
 
 **Happy Hacking!**
